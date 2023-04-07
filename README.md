@@ -4,7 +4,8 @@ Analysis of charter schools and the testing if local schools are silo-ing studen
 The charter school information is gather from EDDIE North Carolina Schools
 
 What are the steps? 
-1)From each email address - break down email address to domain website
+
+1) From each email address - break down email address to domain website
 2) From the school name google search "board members" 
 3) Data Quality Check: Are the board members website same from the email domain website?
 4) Scrape the board member website 
